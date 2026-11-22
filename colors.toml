@@ -1,0 +1,38 @@
+# Bruegel: a dark theme from Pieter Bruegel the Elder's panels (1559-1565).
+# Umber ground and parchment text; harvest ochre, Proverbs vermilion,
+# the frozen-pond green of Hunters in the Snow and the azurite hills of
+# Return of the Herd for accents.
+mode = "dark"
+
+accent = "#d0953a"
+selection = "#47301d"
+muted = "#6b5636"
+
+background = "#1d1912"
+dark_background = "#16130e"
+darker_background = "#100d09"
+lighter_background = "#2c261d"
+
+foreground = "#e4d8bc"
+dark_foreground = "#8c8d6f"
+light_foreground = "#d4ceb7"
+bright_foreground = "#f1e6ca"
+
+red = "#c4553a"
+yellow = "#dabc7e"
+orange = "#cc7a32"
+green = "#94a06a"
+cyan = "#7fa89c"
+blue = "#7a9cb0"
+magenta = "#b0767a"
+brown = "#845221"
+
+bright_red = "#d9734f"
+bright_yellow = "#e4c98e"
+bright_green = "#aab680"
+bright_cyan = "#9cc2b6"
+bright_blue = "#9bb8c8"
+bright_magenta = "#c8949a"
+
+hyprland_active_border = "rgba(d0953aee) rgba(c4553aee) 45deg"
+hyprland_inactive_border = "rgba(47301daa)"
