@@ -17,4 +17,10 @@ The palette was sampled from the backgrounds below. All images are public-domain
 omarchy theme install https://github.com/felipelube/omarchy-bruegel-theme.git
 ```
 
+The theme uses the Gruvbox Plus icon theme. Install it from the AUR so the icons apply:
+
+```bash
+omarchy pkg aur add gruvbox-plus-icon-theme
+```
+
 ![preview](preview.png)
