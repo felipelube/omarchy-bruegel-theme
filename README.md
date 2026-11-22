@@ -1,4 +1,4 @@
-# Bruegel
+# Bruegel Omarchy Theme
 
 A dark Omarchy theme drawn from the paintings of Pieter Bruegel the Elder.
 The palette was sampled from the backgrounds below. All images are public-domain scans from Wikimedia Commons:
